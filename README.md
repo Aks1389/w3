@@ -1,2 +1,2 @@
 # w3
-Test gitgub project
+Test github project
